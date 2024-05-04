@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://hft-smartphone.github.io/categories/</loc>
-  </url><url>
-    <loc>https://hft-smartphone.github.io/</loc>
-  </url><url>
-    <loc>https://hft-smartphone.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://hft-smartphone.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

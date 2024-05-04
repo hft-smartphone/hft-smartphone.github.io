@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Händler on HFT-Smartphone</title>
+    <link>http://localhost:1313/tags/h%C3%A4ndler/</link>
+    <description>Recent content in Händler on HFT-Smartphone</description>
+    <image>
+      <title>HFT-Smartphone</title>
+      <url>http://localhost:1313/hft-smartphone-kritik.jpeg</url>
+      <link>http://localhost:1313/hft-smartphone-kritik.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 04 May 2024 11:52:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/h%C3%A4ndler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wo kann man das HFT-Smartphone kaufen?</title>
+      <link>http://localhost:1313/posts/kaufen/</link>
+      <pubDate>Sat, 04 May 2024 11:52:21 +0200</pubDate>
+      <guid>http://localhost:1313/posts/kaufen/</guid>
+      <description>Wer wird das HFT-Smartphone anbieten?</description>
+    </item>
+  </channel>
+</rss>

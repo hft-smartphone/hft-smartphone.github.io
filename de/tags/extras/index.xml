@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Extras on HFT-Smartphone</title>
+    <link>https://hft-smartphone.github.io/de/tags/extras/</link>
+    <description>Recent content in Extras on HFT-Smartphone</description>
+    <image>
+      <title>HFT-Smartphone</title>
+      <url>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</url>
+      <link>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 03 May 2024 08:52:21 +0200</lastBuildDate>
+    <atom:link href="https://hft-smartphone.github.io/de/tags/extras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die Bestelloptionen des HFT-Smartphones</title>
+      <link>https://hft-smartphone.github.io/de/posts/bestellen/</link>
+      <pubDate>Fri, 03 May 2024 08:52:21 +0200</pubDate>
+      <guid>https://hft-smartphone.github.io/de/posts/bestellen/</guid>
+      <description>Was kann man zum HFT-Smartphone dazubestellen?</description>
+    </item>
+  </channel>
+</rss>
