@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zubehör on HFT-Smartphone</title>
-    <link>http://localhost:1313/tags/zubeh%C3%B6r/</link>
+    <link>https://hft-smartphone.github.io/tags/zubeh%C3%B6r/</link>
     <description>Recent content in Zubehör on HFT-Smartphone</description>
     <image>
       <title>HFT-Smartphone</title>
-      <url>http://localhost:1313/hft-smartphone-kritik.jpeg</url>
-      <link>http://localhost:1313/hft-smartphone-kritik.jpeg</link>
+      <url>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</url>
+      <link>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</link>
     </image>
     <generator>Hugo -- 0.125.5</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 03 May 2024 08:52:21 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/zubeh%C3%B6r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hft-smartphone.github.io/tags/zubeh%C3%B6r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die Bestelloptionen des HFT-Smartphones</title>
-      <link>http://localhost:1313/posts/bestellen/</link>
+      <link>https://hft-smartphone.github.io/posts/bestellen/</link>
       <pubDate>Fri, 03 May 2024 08:52:21 +0200</pubDate>
-      <guid>http://localhost:1313/posts/bestellen/</guid>
-      <description>Was kann man zum Smartphone dazubestellen?</description>
+      <guid>https://hft-smartphone.github.io/posts/bestellen/</guid>
+      <description>Was kann man zum HFT-Smartphone dazubestellen?</description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://hft-smartphone.github.io/de/sitemap.xml</loc>
-    
-      <lastmod>2024-05-04T12:48:32+02:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hft-smartphone.github.io/tags/bestellen/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/posts/smartphone-kritik/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/kaufen/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/kritik/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/posts/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/preis/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/technik/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/test/</loc>
+    <lastmod>2024-05-04T12:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/h%C3%A4ndler/</loc>
+    <lastmod>2024-05-04T11:52:21+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/posts/kaufen/</loc>
+    <lastmod>2024-05-04T11:52:21+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/posts/bestellen/</loc>
+    <lastmod>2024-05-03T08:52:21+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/extras/</loc>
+    <lastmod>2024-05-03T08:52:21+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/tags/zubeh%C3%B6r/</loc>
+    <lastmod>2024-05-03T08:52:21+02:00</lastmod>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/categories/</loc>
+  </url><url>
+    <loc>https://hft-smartphone.github.io/suche/</loc>
+  </url>
+</urlset>

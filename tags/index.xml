@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on HFT-Smartphone</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://hft-smartphone.github.io/tags/</link>
     <description>Recent content in Tags on HFT-Smartphone</description>
     <image>
       <title>HFT-Smartphone</title>
-      <url>http://localhost:1313/hft-smartphone-kritik.jpeg</url>
-      <link>http://localhost:1313/hft-smartphone-kritik.jpeg</link>
+      <url>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</url>
+      <link>https://hft-smartphone.github.io/hft-smartphone-kritik.jpeg</link>
     </image>
     <generator>Hugo -- 0.125.5</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 04 May 2024 12:48:32 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hft-smartphone.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bestellen</title>
-      <link>http://localhost:1313/tags/bestellen/</link>
+      <link>https://hft-smartphone.github.io/tags/bestellen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bestellen/</guid>
+      <guid>https://hft-smartphone.github.io/tags/bestellen/</guid>
       <description></description>
     </item>
     <item>
       <title>Kaufen</title>
-      <link>http://localhost:1313/tags/kaufen/</link>
+      <link>https://hft-smartphone.github.io/tags/kaufen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kaufen/</guid>
+      <guid>https://hft-smartphone.github.io/tags/kaufen/</guid>
       <description></description>
     </item>
     <item>
       <title>Kritik</title>
-      <link>http://localhost:1313/tags/kritik/</link>
+      <link>https://hft-smartphone.github.io/tags/kritik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kritik/</guid>
+      <guid>https://hft-smartphone.github.io/tags/kritik/</guid>
       <description></description>
     </item>
     <item>
       <title>Preis</title>
-      <link>http://localhost:1313/tags/preis/</link>
+      <link>https://hft-smartphone.github.io/tags/preis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/preis/</guid>
+      <guid>https://hft-smartphone.github.io/tags/preis/</guid>
       <description></description>
     </item>
     <item>
       <title>Technik</title>
-      <link>http://localhost:1313/tags/technik/</link>
+      <link>https://hft-smartphone.github.io/tags/technik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technik/</guid>
+      <guid>https://hft-smartphone.github.io/tags/technik/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
+      <link>https://hft-smartphone.github.io/tags/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/test/</guid>
+      <guid>https://hft-smartphone.github.io/tags/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Händler</title>
-      <link>http://localhost:1313/tags/h%C3%A4ndler/</link>
+      <link>https://hft-smartphone.github.io/tags/h%C3%A4ndler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/h%C3%A4ndler/</guid>
+      <guid>https://hft-smartphone.github.io/tags/h%C3%A4ndler/</guid>
       <description></description>
     </item>
     <item>
       <title>Extras</title>
-      <link>http://localhost:1313/tags/extras/</link>
+      <link>https://hft-smartphone.github.io/tags/extras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/extras/</guid>
+      <guid>https://hft-smartphone.github.io/tags/extras/</guid>
       <description></description>
     </item>
     <item>
       <title>Zubehör</title>
-      <link>http://localhost:1313/tags/zubeh%C3%B6r/</link>
+      <link>https://hft-smartphone.github.io/tags/zubeh%C3%B6r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zubeh%C3%B6r/</guid>
+      <guid>https://hft-smartphone.github.io/tags/zubeh%C3%B6r/</guid>
       <description></description>
     </item>
   </channel>
